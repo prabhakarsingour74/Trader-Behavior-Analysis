@@ -1,0 +1,79 @@
+2026-04-25 20:34:15 | INFO     | 🚀 CLI started
+2026-04-25 20:34:15 | ERROR    | Missing API credentials.
+2026-04-25 20:34:55 | INFO     | 🚀 CLI started
+2026-04-25 20:34:55 | ERROR    | Missing API credentials.
+2026-04-25 20:36:27 | INFO     | 🚀 CLI started
+2026-04-25 20:36:27 | INFO     | 📤 Placing order: BUY 0.001 BTCUSDT @ MARKET (Market)
+2026-04-25 20:36:27 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'timestamp': 1777129587768, 'recvWindow': 5000, 'signature': '543be91cdbf2ecd3bdf3aacd73311f348b3b6f3120f7b2459d241ec031b1d89f'}
+2026-04-25 20:36:28 | ERROR    | ❌ Network/API Error: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:36:28 | ERROR    | ❌ Order placement failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:36:28 | ERROR    | 💥 Execution failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:57:15 | INFO     | 🚀 CLI started
+2026-04-25 20:57:15 | INFO     | 📤 Placing order: BUY 0.001 BTCUSDT @ MARKET (Market)
+2026-04-25 20:57:15 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'timestamp': 1777130835335, 'recvWindow': 5000, 'signature': '20ee6475cff4ddf388345019831304ef56ee846fa474e6f451eb0b5fa03d6468'}
+2026-04-25 20:57:15 | ERROR    | ❌ Network/API Error: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:57:15 | ERROR    | ❌ Order placement failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:57:15 | ERROR    | 💥 Execution failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:59:16 | INFO     | 🚀 CLI started
+2026-04-25 20:59:16 | INFO     | 📤 Placing order: BUY 0.001 BTCUSDT @ MARKET (Market)
+2026-04-25 20:59:16 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'timestamp': 1777130956831, 'recvWindow': 5000, 'signature': '08c4639db9dff469429d0b163f04a27da1336416a692963917de519f1b538ac8'}
+2026-04-25 20:59:17 | ERROR    | ❌ Network/API Error: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:59:17 | ERROR    | ❌ Order placement failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-25 20:59:17 | ERROR    | 💥 Execution failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:14:44 | INFO     | 🚀 CLI started
+2026-04-26 20:14:44 | INFO     | 📤 Placing order: BUY 0.001 BTCUSDT @ MARKET (Market)
+2026-04-26 20:14:44 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'timestamp': 1777214684464, 'recvWindow': 5000, 'signature': 'ea4dd3fd42f168e71b06492cc833be1e139f7c371da2af2c9cab32c098fb0c47'}
+2026-04-26 20:14:45 | ERROR    | ❌ Network/API Error: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:14:45 | ERROR    | ❌ Order placement failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:14:45 | ERROR    | 💥 Execution failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:14:58 | INFO     | 🚀 CLI started
+2026-04-26 20:14:58 | INFO     | 📤 Placing order: BUY 1e-05 BTCUSDT @ MARKET (Market)
+2026-04-26 20:14:58 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1e-05', 'timestamp': 1777214698318, 'recvWindow': 5000, 'signature': '266c85a25b40298b8bda2650bab3fd66604255d1b9d6518b1c8bbb400e370c88'}
+2026-04-26 20:14:58 | ERROR    | ❌ Network/API Error: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:14:58 | ERROR    | ❌ Order placement failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:14:58 | ERROR    | 💥 Execution failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:22:47 | INFO     | 🚀 CLI started
+2026-04-26 20:22:47 | ERROR    | ❌ BINANCE_API_KEY or BINANCE_API_SECRET not set in environment
+2026-04-26 20:24:50 | INFO     | 🚀 CLI started
+2026-04-26 20:24:50 | ERROR    | ❌ BINANCE_API_KEY or BINANCE_API_SECRET not set in environment
+2026-04-26 20:26:31 | INFO     | 🚀 CLI started
+2026-04-26 20:26:31 | ERROR    | ❌ BINANCE_API_KEY or BINANCE_API_SECRET not set in environment
+2026-04-26 20:35:25 | INFO     | 🚀 CLI started
+2026-04-26 20:35:25 | ERROR    | ❌ BINANCE_API_KEY or BINANCE_API_SECRET not set in environment
+2026-04-26 20:36:28 | INFO     | 🚀 CLI started
+2026-04-26 20:37:00 | INFO     | 🚀 CLI started
+2026-04-26 20:37:00 | INFO     | 📤 Placing order: BUY 0.001 BTCUSDT @ MARKET
+2026-04-26 20:37:00 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'quantity': '0.001', 'recvWindow': 5000, 'side': 'BUY', 'symbol': 'BTCUSDT', 'timestamp': 1777216020875, 'type': 'MARKET', 'signature': '7f3689b361b6fce5797e557db416f4fa43270e4016e5401c78a82aaedf2a064e'}
+2026-04-26 20:37:01 | ERROR    | ❌ Network/API Error: {"code":-2014,"msg":"API-key format invalid."}
+2026-04-26 20:37:01 | ERROR    | 💥 Execution failed: API request failed: {"code":-2014,"msg":"API-key format invalid."}
+2026-04-26 20:37:14 | INFO     | 🚀 CLI started
+2026-04-26 20:37:14 | INFO     | 📤 Placing order: SELL 0.001 BTCUSDT @ LIMIT price=65000
+2026-04-26 20:37:14 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'price': '65000', 'quantity': '0.001', 'recvWindow': 5000, 'side': 'SELL', 'symbol': 'BTCUSDT', 'timeInForce': 'GTC', 'timestamp': 1777216034737, 'type': 'LIMIT', 'signature': 'c734bce16bb04c35d9d391af014a47c7bf54c722e1737ee9d6e89ab8d03c9fa0'}
+2026-04-26 20:37:15 | ERROR    | ❌ Network/API Error: {"code":-2014,"msg":"API-key format invalid."}
+2026-04-26 20:37:15 | ERROR    | 💥 Execution failed: API request failed: {"code":-2014,"msg":"API-key format invalid."}
+2026-04-26 20:37:27 | INFO     | 🚀 CLI started
+2026-04-26 20:37:27 | INFO     | 🔑 Testing API key & permissions with /fapi/v2/account
+2026-04-26 20:37:27 | INFO     | 🌐 Request: GET /fapi/v2/account | Params: {'recvWindow': 5000, 'timestamp': 1777216047547, 'signature': '2cb03b11e916536281e0b927be588e627c957e7ab2d562058eca1c671194583c'}
+2026-04-26 20:37:27 | ERROR    | ❌ Network/API Error: {"code":-2014,"msg":"API-key format invalid."}
+2026-04-26 20:41:13 | INFO     | 🚀 CLI started
+2026-04-26 20:41:13 | INFO     | 📤 Placing order: BUY 0.001 BTCUSDT @ MARKET
+2026-04-26 20:41:13 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'quantity': '0.001', 'recvWindow': 5000, 'side': 'BUY', 'symbol': 'BTCUSDT', 'timestamp': 1777216273536, 'type': 'MARKET', 'signature': '22da364ef87e6fe122054ab45fd58f07a17d6d0a23813016cf28f72d34bda6d2'}
+2026-04-26 20:41:13 | ERROR    | ❌ Network/API Error: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:41:13 | ERROR    | 💥 Execution failed: API request failed: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-04-26 20:52:24 | INFO     | 🚀 CLI started
+2026-04-26 20:52:24 | INFO     | 📤 Placing order: BUY 0.001 BTCUSDT @ MARKET
+2026-04-26 20:52:24 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'quantity': '0.001', 'recvWindow': 5000, 'side': 'BUY', 'symbol': 'BTCUSDT', 'timestamp': 1777216944316, 'type': 'MARKET', 'signature': '783be53e57fdd243d8dd50cfd1001491805ed0e9ac2b8be680774d8774741d68'}
+2026-04-26 20:52:24 | INFO     | ✅ Response: {'orderId': 13079521094, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '0wntXJaD02O21Xdn6RKbWB', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777216944541}
+2026-04-26 21:00:21 | INFO     | 🚀 CLI started
+2026-04-26 21:00:21 | INFO     | 📤 Placing order: SELL 0.01 ETHUSDT @ LIMIT price=1800
+2026-04-26 21:00:21 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'price': '1800', 'quantity': '0.01', 'recvWindow': 5000, 'side': 'SELL', 'symbol': 'ETHUSDT', 'timeInForce': 'GTC', 'timestamp': 1777217421333, 'type': 'LIMIT', 'signature': 'c5e9a46c191142ab9d4f9715eef071d4222feffac31442c9ce7c664920addf51'}
+2026-04-26 21:00:21 | ERROR    | ❌ Network/API Error: {"code":-4024,"msg":"Limit price can't be lower than 2230.02."}
+2026-04-26 21:00:21 | ERROR    | 💥 Execution failed: API request failed: {"code":-4024,"msg":"Limit price can't be lower than 2230.02."}
+2026-04-26 21:01:02 | INFO     | 🚀 CLI started
+2026-04-26 21:01:02 | INFO     | 📤 Placing order: SELL 0.01 ETHUSDT @ LIMIT price=2500
+2026-04-26 21:01:02 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'price': '2500', 'quantity': '0.01', 'recvWindow': 5000, 'side': 'SELL', 'symbol': 'ETHUSDT', 'timeInForce': 'GTC', 'timestamp': 1777217462147, 'type': 'LIMIT', 'signature': '271618b0a7737c0a97e98f90d8c0a73572351ae075bb8874edf57178c618b3e6'}
+2026-04-26 21:01:02 | INFO     | ✅ Response: {'orderId': 8667656532, 'symbol': 'ETHUSDT', 'status': 'NEW', 'clientOrderId': '0RAaPfhdRxi0HhOTwzfCoF', 'price': '2500.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777217462321}
+2026-04-26 21:01:22 | INFO     | 🚀 CLI started
+2026-04-26 21:01:22 | INFO     | 📤 Placing order: SELL 0.01 ETHUSDT @ LIMIT price=25000
+2026-04-26 21:01:22 | INFO     | 🌐 Request: POST /fapi/v1/order | Params: {'price': '25000', 'quantity': '0.01', 'recvWindow': 5000, 'side': 'SELL', 'symbol': 'ETHUSDT', 'timeInForce': 'GTC', 'timestamp': 1777217482440, 'type': 'LIMIT', 'signature': 'b1e2d1ad0005d47ae34641a80076f23018c6413a8efc1130a2a02245971b3330'}
+2026-04-26 21:01:22 | INFO     | ✅ Response: {'orderId': 8667656928, 'symbol': 'ETHUSDT', 'status': 'NEW', 'clientOrderId': 'wtZFK3PGuXJzWGAGdLjQER', 'price': '25000.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777217482676}
